@@ -5,6 +5,7 @@ const chapters = [
   { id: 1, title: "Ter ou ser? Eis a questão...", teacherPdf: "/assets/pdfs/Educador_Capitulo_01_1a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_01_1a.pdf" },
   { id: 2, title: "Jura que posso gastar mais? Juros!", teacherPdf: "/assets/pdfs/Educador_Capitulo_02_1a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_02_1a.pdf" },
   { id: 3, title: "Um doce projeto familiar", teacherPdf: "/assets/pdfs/Educador_Capitulo_03_1a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_03_1a.pdf" },
+  { id: 4, title: "O preço do dinheiro", teacherPdf: "/assets/pdfs/Educador_Capitulo_04_1a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_04_1a.pdf" },
 ];
 
 const ChapterList = () => {
