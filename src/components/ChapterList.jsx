@@ -6,6 +6,9 @@ const chapters = [
   { id: 2, title: "Jura que posso gastar mais? Juros!", teacherPdf: "/assets/pdfs/Educador_Capitulo_02_1a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_02_1a.pdf" },
   { id: 3, title: "Um doce projeto familiar", teacherPdf: "/assets/pdfs/Educador_Capitulo_03_1a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_03_1a.pdf" },
   { id: 4, title: "Quanto mais venda, melhor?", teacherPdf: "/assets/pdfs/Educador_Capitulo_04_1a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_04_1a.pdf" },
+
+  { id: 5, title: "Como escolher o preço certo?", teacherPdf: "/assets/pdfs/Educador_Capitulo_05_1a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_05_1a.pdf" },
+  { id: 6, title: " Tornando a vida mais doce pouco a pouco", teacherPdf: "/assets/pdfs/Educador_Capitulo_06_1a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_06_1a.pdf" },
 ];
 
 const ChapterList = () => {
