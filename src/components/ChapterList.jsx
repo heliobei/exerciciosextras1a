@@ -8,8 +8,8 @@ const chapters = [
   { id: 4, title: "Quanto mais venda, melhor?", teacherPdf: "/assets/pdfs/Educador_Capitulo_04_1a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_04_1a.pdf" },
 
   { id: 5, title: "Como escolher o preço certo?", teacherPdf: "/assets/pdfs/Educador_Capitulo_05_1a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_05_1a.pdf" },
-  { id: 6, title: " Tornando a vida mais doce pouco a pouco", teacherPdf: "/assets/pdfs/Educador_Capitulo_06_1a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_06_1a.pdf" },
-
+  { id: 6, title: "Tornando a vida mais doce pouco a pouco", teacherPdf: "/assets/pdfs/Educador_Capitulo_06_1a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_06_1a.pdf" },
+  { id: 7, title: "Qual é o meu sonho?", teacherPdf: "/assets/pdfs/Educador_Capitulo_07_1a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_07_1a.pdf" },
   { id: 8, title: "Planejando para chegar lá", teacherPdf: "/assets/pdfs/Educador_Capitulo_08_1a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_08_1a.pdf" },
   { id: 9, title: "Quando chegarei lá?", teacherPdf: "/assets/pdfs/Educador_Capitulo_09_1a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_09_1a.pdf" },
   { id: 10, title: "Realizando sonhos numa curva", teacherPdf: "/assets/pdfs/Educador_Capitulo_10_1a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_10_1a.pdf" },
